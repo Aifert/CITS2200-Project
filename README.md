@@ -1,22 +1,19 @@
-<<<<<<< HEAD
+
 # CITS2200-Project
-=======
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains source code and test code for CITS2200 Project.
 
-## Folder Structure
+# Questions 
 
-The workspace contains two folders by default, where:
+Q1 : Write a method that, given a pair of pages, retrun the minimum number of links you must follow ito get from first page to second
+Q2: Write a method that finds a Hamiltonian path in a Wikipedia page graph. A Hamiltonian path is any path in some graph that visits every vertex exactly once and returns to original position
+Q3: Write a method that finds every strongly connected component of paes
+Q4: Write a method that finds all the centers of the Wikipedia page graph.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Description of the methods include time complexity of the algorithms and the thought process of the method and inspiration references.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
->>>>>>> 3cd745f (Initial Commit)
+# Technology
+- Java
+- CITS2200 Project Interface
